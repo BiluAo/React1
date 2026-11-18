@@ -8,6 +8,6 @@ import Counter from './components/Counter.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
-    <Counter />
+
   </StrictMode>,
 )
